@@ -1,0 +1,8 @@
+ir\maktab\model\Travel.class
+ir\maktab\Application.class
+ir\maktab\model\Location.class
+ir\maktab\model\UserRole.class
+ir\maktab\model\Driver.class
+ir\maktab\model\Passenger.class
+ir\maktab\model\TypeOfTrip.class
+ir\maktab\model\User.class
